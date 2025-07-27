@@ -5,7 +5,7 @@
   "homepage": ".",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YogeshKomre/AIAgent.git"
+    "url": "https://github.com/YogeshKomre/test1.git"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
